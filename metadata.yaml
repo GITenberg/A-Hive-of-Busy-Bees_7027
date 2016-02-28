@@ -1,0 +1,25 @@
+_repo: A-Hive-of-Busy-Bees_7027
+creator:
+  author:
+    agent_name: Williams, Effie Mae Hency
+    gutenberg_agent_id: '2311'
+    url: http://www.gutenberg.org/2009/agents/2311
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7027'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Grandparents -- Juvenile fiction'
+- !lcsh 'Farms -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Bees -- Juvenile fiction'
+title: A Hive of Busy Bees
+url: http://www.gutenberg.org/ebooks/7027
